@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name         视频倍速与电子科大自动连播
+// @name         视频加速助手【自动连播】｜最高16倍速｜网课·党课·考试备考
 // @namespace    local.video-speed-only
 // @author       yaoyuanArtemis
 // @homepageURL  https://github.com/yaoyuanArtemis/video-speed-helper
 // @supportURL   https://github.com/yaoyuanArtemis/video-speed-helper/issues
-// @version      1.3.1
-// @description  视频倍速面板、设置记忆及电子科大课程自动连播；默认 1.5 倍。
+// @version      1.3.2
+// @description  专注于【视频加速】，面向常见HTML5（H5）视频播放器。安装即用，简洁面板轻松调速，支持0.25～16倍自定义速度，1×、8×、16×一键切换，自动记住倍速设置。适合大学生网课复习、党课学习与考试备考课程。【自动连播】目前仅适配电子科大党课页面，其它平台待适配；实际兼容性受网站和浏览器限制。
 // @match        *://*/*
 // @grant        GM_getValue
 // @grant        GM_setValue
